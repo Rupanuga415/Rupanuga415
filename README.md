@@ -72,7 +72,7 @@ $ gh-stats --user=Rupanuga415 --theme=terminal
 ### 💬 Execute Command: Connect
 
 ```bash
-$ ping --user YOUR_GITHUB_USERNAME
+$ ping --user Rupanuga415
 ```
 
 * **GitHub:** [@Rupanuga415](https://github.com/Rupanuga415)
